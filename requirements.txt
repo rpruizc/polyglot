@@ -1,0 +1,7 @@
+youtube-transcript-api>=0.6.0
+beautifulsoup4>=4.11.0
+Pillow>=9.0.0
+pdfminer.six>=20221105
+openai-whisper>=20230918
+torch>=2.0.0
+tqdm>=4.64.0 
