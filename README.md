@@ -1,4 +1,4 @@
-# Transcriptor - Media Transcription Utilities
+# Polyglot - Media Transcription Utilities
 
 A collection of utilities for working with transcripts from various sources, including YouTube videos, audio files, and PDFs.
 
